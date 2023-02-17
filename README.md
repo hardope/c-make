@@ -16,3 +16,28 @@
 ```
 
 ### Installation
+
+* Run the following command snipet
+
+``` bash
+
+ ~ $ git clone https://github.com/hardope/c-make
+ # Clone repository
+ 
+ ~ $ cd c-make
+ # enter Directory
+ 
+ ~ $ gcc make.c -o make
+ # compile c code to executable file
+ 
+ # Note Run this command only for linux devices
+ # Move executable file to bin folder
+ # This is to make the executable available globally
+ ~ $ mv make /root/bin
+  
+ # Note run this for only Windows OS
+  # This is to make the executable available globally
+ ~ $ mv make C:\Windows\System32
+  
+
+```
