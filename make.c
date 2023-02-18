@@ -35,4 +35,6 @@ int main(int argc, char *argv[])
           printf("*** Invalid Command Line Arguments ***\n");
 
      }
+
+     return (0);
 }
