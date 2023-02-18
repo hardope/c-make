@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
           if (strcmp(argv[1], "-f") == 0){
 
-               sprintf(command, "gcc *.c -o %s", argv[2]);
+               sprintf(command, "gcc *.c -o %s -Wall -Werror -pedantic -Wextra -std=gnu89", argv[2]);
 
                system(command);
           }
@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 
      else if (argc == 2) {
 
-          sprintf(command, "gcc %s.c -o %s", argv[1], argv[1]);
+          sprintf(command, "gcc %s.c -o %s -Wall -Werror -pedantic -Wextra -std=gnu89", argv[1], argv[1]);
 
           system(command);
 
