@@ -38,4 +38,4 @@
 ```
 
 ## Note
-* FOR WINDOWS move make.exe to C:\Windows\System32
+* FOR WINDOWS OS move make.exe to C:\Windows\System32
