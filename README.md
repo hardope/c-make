@@ -3,7 +3,7 @@
 ### Automate compilation of C files by using make command
 
 ### Usage
-* Use make command with name of file without .c extension
+* Use make command with name of file without ".c" extension
 
 ``` bash
 
