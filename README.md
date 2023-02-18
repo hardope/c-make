@@ -34,10 +34,5 @@
  # Move executable file to bin folder
  # This is to make the executable available globally
  ~ $ mv make /root/bin
-  
- # Note run this for only Windows OS
-  # This is to make the executable available globally
- ~ $ mv make C:\Windows\System32
-  
 
 ```
