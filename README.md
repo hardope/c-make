@@ -36,3 +36,6 @@
  ~ $ mv make /root/bin
 
 ```
+
+## Note
+* FOR WINDOWS move make.exe to C:\Windows\System32
