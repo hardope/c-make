@@ -26,6 +26,8 @@
 
 ```
 
+#### Note: Several Linux devices have a similar package built in, Before Installation make sure you don't have it preinstalled
+
 ### Installation
 
 * Run the following command snipet
